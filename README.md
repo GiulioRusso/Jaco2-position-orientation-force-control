@@ -20,8 +20,7 @@ Step 1: link Matlab with coppeliaSim
 	10.	Drag any robot from the left menu on the empty scene
 	11.	Run Matlab and launch the script SimpleTest.m. The program should read the number of objects present in the V-REP scene and it should end. If it does not work check line 17 and change port 19999 to 19997
 
-If you see Failed connecting to remote API server
-Se comunque non funziona e Matlab restituisce:
+If you see Failed connecting to remote API server:
 >> simpleTest
 Program started
 Note: always make sure you use the corresponding remoteApi library
