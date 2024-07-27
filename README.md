@@ -34,7 +34,7 @@ The repository contains all the files that define the dynamic model of the Jaco2
 The starting points of the tasks are:
 
 - **main01.m** to **main09.m**: increasing exercise about the main topics of position and orientation control.
-- **main_progetto_1.m** to **main_progetto_4.m**: the four main point of the project.
+- **main_progetto_1.m** to **main_progetto_4.m**: the four main points of the project.
 
 # How to run it
 1.	Download the coppeliaSim educational version for the own O.S. from the website: http://www.coppeliarobotics.com
